@@ -4,6 +4,8 @@
 #include <vector>
 #include <algorithm>
 #include <map>
+#include <deque>
+#include <queue>
 
 using namespace std;
 
